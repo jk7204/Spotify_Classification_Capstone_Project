@@ -43,3 +43,13 @@ Column 16: obtained date (when was this information obtained from Spotify)
 Column 17: valence (an audio feature), on a scale from 0 to 1
 
 Column 18: Genre of the song (there are 10 different genres, e.g. “Rock” or “Country”)
+
+## Key Challenges
+
+- Randomly missing data
+
+- Acoustic features are not normally distributed
+
+- Data transformation needed for certain string data
+
+
